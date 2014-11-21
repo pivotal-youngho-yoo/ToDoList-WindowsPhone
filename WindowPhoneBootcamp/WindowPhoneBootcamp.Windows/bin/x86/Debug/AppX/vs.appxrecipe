@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WX008</Machine>
+    <WindowsUser>WX-008</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>ea5ab83a-9faa-41aa-ae00-7024ff80606d</PackageIdentityName>
+    <IntermediateOutputPath>c:\users\wx-008\documents\visual studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\obj\x86\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>FC7A4C7FC064707C2CDBFFE394B086D17B5E776E88FCA44BC34A568D7748E278</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ea5ab83a-9faa-41aa-ae00-7024ff80606d_1.0.0.0_x86__01y5534dqxfqr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ea5ab83a-9faa-41aa-ae00-7024ff80606d_01y5534dqxfqr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ea5ab83a-9faa-41aa-ae00-7024ff80606d</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=WX-008</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\wx-008\documents\visual studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-21T15:48:52.110</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\wx-008\documents\visual studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\bin\x86\Debug\WindowPhoneBootcamp.Windows.exe">
+      <PackagePath>WindowPhoneBootcamp.Windows.exe</PackagePath>
+      <Modified>2014-11-21T15:48:51.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wx-008\documents\visual studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T16:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wx-008\documents\visual studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T16:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wx-008\documents\visual studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T16:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wx-008\documents\visual studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T16:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wx-008\documents\visual studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-21T15:48:51.554</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wx-008\documents\visual studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-11-21T15:48:51.556</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wx-008\documents\visual studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\bin\x86\Debug\WindowPhoneBootcamp.Windows.xr.xml">
+      <PackagePath>WindowPhoneBootcamp.Windows.xr.xml</PackagePath>
+      <Modified>2014-11-21T15:48:51.361</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\wx-008\documents\visual studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-21T15:48:51.884</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

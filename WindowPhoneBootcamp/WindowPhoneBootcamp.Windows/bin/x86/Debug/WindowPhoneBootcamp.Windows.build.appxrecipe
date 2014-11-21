@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WX008</Machine>
+    <WindowsUser>WX-008</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>ea5ab83a-9faa-41aa-ae00-7024ff80606d</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\WX-008\Documents\Visual Studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\obj\x86\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\WX-008\Documents\Visual Studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\bin\x86\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\WX-008\Documents\Visual Studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\bin\x86\Debug\WindowPhoneBootcamp.Windows.exe">
+      <PackagePath>WindowPhoneBootcamp.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\WX-008\Documents\Visual Studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\WX-008\Documents\Visual Studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\WX-008\Documents\Visual Studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\WX-008\Documents\Visual Studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\WX-008\Documents\Visual Studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\bin\x86\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\WX-008\Documents\Visual Studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\bin\x86\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\WX-008\Documents\Visual Studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\bin\x86\Debug\WindowPhoneBootcamp.Windows.xr.xml">
+      <PackagePath>WindowPhoneBootcamp.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\WX-008\Documents\Visual Studio 2013\Projects\WindowPhoneBootcamp\WindowPhoneBootcamp\WindowPhoneBootcamp.Windows\bin\x86\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
